@@ -1,0 +1,28 @@
+.container {
+    padding-top: 75px;
+    align-items: center;
+    text-align: center;
+}
+
+.navbar {
+    background: rgb(226, 236, 192);
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}
+
+body {
+    background: rgb(24, 98, 117);
+    background: radial-gradient(circle, rgba(24, 98, 117, 1) 0%, rgba(90, 110, 40, 1) 100%);
+    color: white;
+}
+
+#page {
+    height: 900px;
+    text-align: center;
+}
+
+a {
+    color: inherit;
+}
